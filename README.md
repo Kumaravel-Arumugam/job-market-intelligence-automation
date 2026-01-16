@@ -11,6 +11,9 @@ The system is designed to **optimize efficiency**, allowing human effort to be r
 
 ![Efficiency](https://img.shields.io/badge/principle-efficiency%20first-success)
 
+![System Overview Diagram](architecture/system-overview.png)
+
+
 ---
 
 ## 🎯 What Is This?
