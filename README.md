@@ -6,8 +6,10 @@ This project demonstrates an **automation-first and analytical approach** to red
 The system is designed to **optimize efficiency**, allowing human effort to be redirected from data collection toward interpretation, strategy, and execution.
 
 [![n8n](https://img.shields.io/badge/n8n-workflow%20automation-orange)](https://n8n.io/)
-[![Automation](https://img.shields.io/badge/focus-automation%20%2B%20analysis-blue)]
-[![Efficiency](https://img.shields.io/badge/principle-efficiency%20first-success)]
+
+![Automation](https://img.shields.io/badge/focus-automation%20%2B%20analysis-blue)
+
+![Efficiency](https://img.shields.io/badge/principle-efficiency%20first-success)
 
 ---
 
