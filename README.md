@@ -193,6 +193,27 @@ These constraints keep the focus on **efficiency-driven automation and analytica
 
 ---
 
+## 📑 Sample Outputs
+
+This repository includes real system outputs generated during validation runs.
+
+- 📊 Market analysis charts (skills, experience, demand curves)
+- 📄 Full structured text reports (Telegram-delivered)
+- 🔍 Deduplicated job-market insights from real postings
+
+➡️ See: [`outputs/OUTPUTS.md`](outputs/OUTPUTS.md)
+
+## 🧠 AI Usage (Disclosure)
+
+This system uses a local language model (via Ollama) **only to enrich textual summaries**.
+
+- AI does not influence data collection, filtering, aggregation, or calculations
+- All analytics, metrics, and charts are generated using deterministic logic
+- AI is non-authoritative and does not drive decision-making
+
+This ensures analytical transparency and reproducibility.
+
+
 ## 🧪 How to Review This Project
 
 For a structured review:
